@@ -1,7 +1,7 @@
 # HookParse
 钉钉直播回放信息拦截
 ## 说明
-使用HOOK实现，针对Windows 钉钉7.0.40-Release.7049102 Native
+使用HOOK实现，适用版本 Windows 钉钉 7.0.40-Release.7049102 Native
 
 ## 使用方法：
 钉钉启动后使用任意注入器注入，点击直播回放列表后显示包含m3u8链接的json数据
